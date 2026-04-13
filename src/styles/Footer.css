@@ -1,0 +1,13 @@
+footer {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+  background: rgba(44, 62, 80, 0.9);
+  padding: 15px;
+  margin-top: auto;
+}
+
+footer img {
+  width: 30px;
+  height: 30px;
+}
